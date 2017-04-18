@@ -13,5 +13,25 @@ namespace Vidbutikken.Controllers
         {
             return View();
         }
+        public ActionResult Butikken()
+        {
+            return View();
+        }
+        public ActionResult Butikken_grid()
+        {
+            return View();
+        }
+        public ActionResult Kontakt()
+        {
+            return View();
+        }
+        public ActionResult laesmere()
+        {
+            return View();
+        }
+        public ActionResult omos()
+        {
+            return View();
+        }
     }
 }
